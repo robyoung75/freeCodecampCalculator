@@ -1,0 +1,29 @@
+/* number pad  */
+
+.calcNumPad {
+  display: flex;
+  width: 70%;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  /*   background: red;   */
+}
+
+.calc__container {
+  display: flex;
+  width: 100%;
+}
+
+.btm {
+  justify-content: space-between;
+}
+
+.calcNumPad__btn {
+  width: 30%;
+  margin: 0.25rem;
+}
+
+.button__zero {
+  width: 50%;
+  margin: 0.25rem;
+}

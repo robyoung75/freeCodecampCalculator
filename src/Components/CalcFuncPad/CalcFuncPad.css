@@ -1,0 +1,34 @@
+/* function pad */
+.calcFuncPad {
+  display: flex;
+  width: 30%;
+  flex-wrap: wrap;
+  /*   background: purple; */
+}
+
+.calc__container {
+  display: flex;
+  width: 100%;
+}
+
+.calc__container__vert {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+}
+
+.button__ac {
+  width: 100%;
+  margin: 0.25rem;
+}
+.button__sum {
+  height: 100%;
+  margin: 0.25rem;
+}
+.button__cust {
+  width: 50%;
+  margin: 0.25rem;
+}
+.button__subEqual {
+  margin: 0.25rem;
+}

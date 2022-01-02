@@ -1,0 +1,10 @@
+.calculator {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    padding: 0.5rem;
+    background: darkgrey;
+    
+  }

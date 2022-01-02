@@ -1,0 +1,7 @@
+.calcFormulaDisplay {
+  display: flex;
+  justify-content: flex-end;
+  /* background: red; */
+  width: 100%;
+  font-size: x-small;
+}
